@@ -1,0 +1,49 @@
+/*.searchbar{
+    width:500px;
+    height:10px;
+    
+}
+    */
+
+.searchbar-container{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin-bottom:30px;
+}
+
+.product-category-row{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  
+}
+
+.product-category{
+  font-weight:600;
+  
+}
+
+
+.searchbar{
+  display:inline-block;
+}
+.checkbox{
+  display:inline-block;
+
+}
+
+.product-row{
+  width:900px;
+  display:flex;
+  flex-direction:row;
+  justify-content:space-between;
+}
+
+.product-table-header{
+
+  display:flex;
+  justify-content:space-around;
+  font-weight:600;
+
+}
